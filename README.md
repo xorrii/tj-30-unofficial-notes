@@ -2,6 +2,15 @@
 
 how are you doing today?
 
-this is really cool
+```
+this is a code block
+```
 
-i like this
+*this is italic text*
+
+**this is bold text**
+
+***this is italic bold text***
+
+~this is a strikethrough~
+
