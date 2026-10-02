@@ -4,4 +4,6 @@ This repository is ***unofficial*** and is made to help TJ '30 students with stu
 
 ## Current Topics
 
+All topics that are currently available with notes, study materials and such will be under the Branches tab. If you have never used GitHub, you can locate these branches by clicking the dropdown of "main" in the top left corner, then clicking on the subject you would like to find.
+
 ### Biology
