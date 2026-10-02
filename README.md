@@ -1,16 +1,5 @@
-# hello
+# TJHSST '30 NOTES REPO
 
-how are you doing today?
+This repository is ***unofficial*** and is made to help TJ '30 students with studying and practice for each class. Collaborators will be added as time goes on. Please contact me on GitHub if you would like to be added as a collaborator to add notes.
 
-```
-this is a code block
-```
-
-*this is italic text*
-
-**this is bold text**
-
-***this is italic bold text***
-
-~this is a strikethrough~
-
+## 
